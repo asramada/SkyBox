@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyBox.Plugins", "SkyBox.Plugins.csproj", "{332FDC3F-EA53-E742-16CA-B85194F3C09E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyBox", "SkyBox.csproj", "{FB2FC95C-141E-EEBB-620F-5E8F25C44825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyBox.Editor.Plugins", "SkyBox.Editor.Plugins.csproj", "{C839E511-F96F-A223-5ACA-BCA27EC471E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{332FDC3F-EA53-E742-16CA-B85194F3C09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332FDC3F-EA53-E742-16CA-B85194F3C09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332FDC3F-EA53-E742-16CA-B85194F3C09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332FDC3F-EA53-E742-16CA-B85194F3C09E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2FC95C-141E-EEBB-620F-5E8F25C44825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2FC95C-141E-EEBB-620F-5E8F25C44825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2FC95C-141E-EEBB-620F-5E8F25C44825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2FC95C-141E-EEBB-620F-5E8F25C44825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C839E511-F96F-A223-5ACA-BCA27EC471E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C839E511-F96F-A223-5ACA-BCA27EC471E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C839E511-F96F-A223-5ACA-BCA27EC471E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C839E511-F96F-A223-5ACA-BCA27EC471E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
